@@ -1,0 +1,8 @@
+{
+  "name": "CampusMart — VEMU Promotional Commercial",
+  "description": "Cinematic 16:9 promotional commercial and interactive brand showcase for CampusMart, the exclusive student marketplace for VEMU Institute of Technology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

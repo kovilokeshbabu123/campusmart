@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="cmBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981" />
+      <stop offset="55%" stop-color="#059669" />
+      <stop offset="100%" stop-color="#047857" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#cmBg)" />
+  <rect x="28" y="28" width="456" height="456" rx="92" fill="none" stroke="#ffffff" stroke-opacity="0.18" stroke-width="6" />
+  <!-- Campus Shopping Tote -->
+  <path
+    d="M156 196h200c13.3 0 24 10.7 24 24l14 148c1.3 14.2-9.8 26-24 26H142c-14.2 0-25.3-11.8-24-26l14-148c0-13.3 10.7-24 24-24z"
+    fill="#ffffff"
+  />
+  <!-- Bag Handle -->
+  <path
+    d="M196 196v-26c0-33.1 26.9-60 60-60s60 26.9 60 60v26"
+    fill="none"
+    stroke="#ffffff"
+    stroke-width="26"
+    stroke-linecap="round"
+  />
+  <!-- Inner Campus Leaf / Graduation Cap Accent -->
+  <path
+    d="M256 244l66 28-66 28-66-28 66-28z"
+    fill="#059669"
+  />
+  <path
+    d="M214 294v26c0 12 18.8 22 42 22s42-10 42-22v-26l-42 18-42-18z"
+    fill="#047857"
+  />
+  <circle cx="316" cy="312" r="7" fill="#059669" />
+  <path d="M316 276v32" stroke="#059669" stroke-width="5" stroke-linecap="round" />
+</svg>
